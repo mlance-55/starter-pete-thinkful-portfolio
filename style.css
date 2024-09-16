@@ -45,6 +45,10 @@ nav{
   padding: 30px;
   text-align: left;
 }
+section{
+  margin-left: 7px;
+  margin-right: 7px;
+}
 /* Paragraphs */
 p {
   line-height: 1.5;
