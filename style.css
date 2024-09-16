@@ -18,6 +18,9 @@ h3 {
 h1{
   text-align: right;
 }
+h2{
+  margin-bottom: 0px;
+}
 /* Header */
 header {
   text-align: center;
@@ -31,7 +34,7 @@ div {
 }
 
 article {
-  padding: 50px 0;
+  padding: 20px 0;
 }
 
 article div {
