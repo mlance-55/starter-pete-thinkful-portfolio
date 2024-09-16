@@ -53,6 +53,10 @@ section{
 p {
   line-height: 1.5;
 }
+.description{
+  font-size: 14px;
+  text-align: center;
+}
 
 /* Links */
 a:link {
